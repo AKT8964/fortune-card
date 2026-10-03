@@ -1,0 +1,5 @@
+手機使用方式
+1. 先把這個 ZIP 解壓縮。
+2. 進入資料夾，開啟 index.html。
+3. 請用 Safari / Chrome 的「瀏覽器」開啟，不要只用手機檔案 App 的預覽畫面。
+4. 如果 iPhone 在「檔案」App 裡只看到靜態畫面、點牌沒反應，這是檔案預覽不執行網頁 JavaScript；把整個資料夾放到任何靜態網站空間（例如 GitHub Pages、Netlify）後，用網址開啟即可正常抽卡。
